@@ -1,0 +1,295 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* .gitignore
+* .pmd
+* CHANGELOG
+* README
+* Release/
+* Release/DESCRIPTION
+* Release/README
+* Release/key
+* Screenshots/
+* Screenshots/1340421447509.jpg
+* Screenshots/1340421467846.jpg
+* Screenshots/1340421495067.jpg
+* Screenshots/1340421830809.jpg
+* Screenshots/1340421842676.jpg
+* Screenshots/1340421850816.jpg
+* Screenshots/1340421867026.jpg
+* Screenshots/1340421899486.jpg
+* Screenshots/1340421911826.jpg
+* Screenshots/1340421933706.jpg
+* Screenshots/1340421969606.jpg
+* Screenshots/1340421974709.jpg
+* lib/
+* lib/commons-logging-api-1.1.1.jar
+* lib/dom4j-1.6.1.jar
+* lib/jericho-html-3.2.jar
+* lib/libGoogleAnalytics.jar
+* lib/log4j-1.2.16.jar
+* lib/slf4j-api-1.6.1.jar
+* license.txt
+* obj/
+* obj/local/
+* obj/local/armeabi/
+* obj/local/armeabi/libHttpClient.so
+* obj/local/armeabi/libcurl.a
+* obj/local/armeabi/objs/
+* obj/local/armeabi/objs/HttpClient/
+* obj/local/armeabi/objs/HttpClient/EasyCurl.o
+* obj/local/armeabi/objs/HttpClient/EasyCurl.o.d
+* obj/local/armeabi/objs/HttpClient/HttpClient.o
+* obj/local/armeabi/objs/HttpClient/HttpClient.o.d
+* obj/local/armeabi/objs/HttpClient/HttpURLByteConverter.o
+* obj/local/armeabi/objs/HttpClient/HttpURLByteConverter.o.d
+* obj/local/armeabi/objs/HttpClient/HttpURLInputStream.o
+* obj/local/armeabi/objs/HttpClient/HttpURLInputStream.o.d
+* obj/local/armeabi/objs/HttpClient/Lib/
+* obj/local/armeabi/objs/HttpClient/Lib/EasyCurl.o
+* obj/local/armeabi/objs/HttpClient/Lib/EasyCurl.o.d
+* obj/local/armeabi/objs/HttpClient/Lib/HttpURLByteConverter.o
+* obj/local/armeabi/objs/HttpClient/Lib/HttpURLByteConverter.o.d
+* obj/local/armeabi/objs/HttpClient/Lib/HttpURLFileWriter.o
+* obj/local/armeabi/objs/HttpClient/Lib/HttpURLFileWriter.o.d
+* obj/local/armeabi/objs/HttpClient/Lib/HttpURLInputStream.o
+* obj/local/armeabi/objs/HttpClient/Lib/HttpURLInputStream.o.d
+* obj/local/armeabi/objs/HttpClient/Lib/URLFile.o
+* obj/local/armeabi/objs/HttpClient/Lib/URLFile.o.d
+* obj/local/armeabi/objs/HttpClient/URLFile.o
+* obj/local/armeabi/objs/HttpClient/URLFile.o.d
+* obj/local/armeabi/objs/curl/
+* obj/local/armeabi/objs/curl/curl/
+* obj/local/armeabi/objs/curl/curl/lib/
+* obj/local/armeabi/objs/curl/curl/lib/asyn-ares.o
+* obj/local/armeabi/objs/curl/curl/lib/asyn-ares.o.d
+* obj/local/armeabi/objs/curl/curl/lib/asyn-thread.o
+* obj/local/armeabi/objs/curl/curl/lib/asyn-thread.o.d
+* obj/local/armeabi/objs/curl/curl/lib/axtls.o
+* obj/local/armeabi/objs/curl/curl/lib/axtls.o.d
+* obj/local/armeabi/objs/curl/curl/lib/base64.o
+* obj/local/armeabi/objs/curl/curl/lib/base64.o.d
+* obj/local/armeabi/objs/curl/curl/lib/connect.o
+* obj/local/armeabi/objs/curl/curl/lib/connect.o.d
+* obj/local/armeabi/objs/curl/curl/lib/content_encoding.o
+* obj/local/armeabi/objs/curl/curl/lib/content_encoding.o.d
+* obj/local/armeabi/objs/curl/curl/lib/cookie.o
+* obj/local/armeabi/objs/curl/curl/lib/cookie.o.d
+* obj/local/armeabi/objs/curl/curl/lib/curl_addrinfo.o
+* obj/local/armeabi/objs/curl/curl/lib/curl_addrinfo.o.d
+* obj/local/armeabi/objs/curl/curl/lib/curl_fnmatch.o
+* obj/local/armeabi/objs/curl/curl/lib/curl_fnmatch.o.d
+* obj/local/armeabi/objs/curl/curl/lib/curl_gethostname.o
+* obj/local/armeabi/objs/curl/curl/lib/curl_gethostname.o.d
+* obj/local/armeabi/objs/curl/curl/lib/curl_gssapi.o
+* obj/local/armeabi/objs/curl/curl/lib/curl_gssapi.o.d
+* obj/local/armeabi/objs/curl/curl/lib/curl_memrchr.o
+* obj/local/armeabi/objs/curl/curl/lib/curl_memrchr.o.d
+* obj/local/armeabi/objs/curl/curl/lib/curl_ntlm.o
+* obj/local/armeabi/objs/curl/curl/lib/curl_ntlm.o.d
+* obj/local/armeabi/objs/curl/curl/lib/curl_rand.o
+* obj/local/armeabi/objs/curl/curl/lib/curl_rand.o.d
+* obj/local/armeabi/objs/curl/curl/lib/curl_rtmp.o
+* obj/local/armeabi/objs/curl/curl/lib/curl_rtmp.o.d
+* obj/local/armeabi/objs/curl/curl/lib/curl_sspi.o
+* obj/local/armeabi/objs/curl/curl/lib/curl_sspi.o.d
+* obj/local/armeabi/objs/curl/curl/lib/curl_threads.o
+* obj/local/armeabi/objs/curl/curl/lib/curl_threads.o.d
+* obj/local/armeabi/objs/curl/curl/lib/cyassl.o
+* obj/local/armeabi/objs/curl/curl/lib/cyassl.o.d
+* obj/local/armeabi/objs/curl/curl/lib/dict.o
+* obj/local/armeabi/objs/curl/curl/lib/dict.o.d
+* obj/local/armeabi/objs/curl/curl/lib/easy.o
+* obj/local/armeabi/objs/curl/curl/lib/easy.o.d
+* obj/local/armeabi/objs/curl/curl/lib/escape.o
+* obj/local/armeabi/objs/curl/curl/lib/escape.o.d
+* obj/local/armeabi/objs/curl/curl/lib/file.o
+* obj/local/armeabi/objs/curl/curl/lib/file.o.d
+* obj/local/armeabi/objs/curl/curl/lib/fileinfo.o
+* obj/local/armeabi/objs/curl/curl/lib/fileinfo.o.d
+* obj/local/armeabi/objs/curl/curl/lib/formdata.o
+* obj/local/armeabi/objs/curl/curl/lib/formdata.o.d
+* obj/local/armeabi/objs/curl/curl/lib/ftp.o
+* obj/local/armeabi/objs/curl/curl/lib/ftp.o.d
+* obj/local/armeabi/objs/curl/curl/lib/ftplistparser.o
+* obj/local/armeabi/objs/curl/curl/lib/ftplistparser.o.d
+* obj/local/armeabi/objs/curl/curl/lib/getenv.o
+* obj/local/armeabi/objs/curl/curl/lib/getenv.o.d
+* obj/local/armeabi/objs/curl/curl/lib/getinfo.o
+* obj/local/armeabi/objs/curl/curl/lib/getinfo.o.d
+* obj/local/armeabi/objs/curl/curl/lib/gopher.o
+* obj/local/armeabi/objs/curl/curl/lib/gopher.o.d
+* obj/local/armeabi/objs/curl/curl/lib/gtls.o
+* obj/local/armeabi/objs/curl/curl/lib/gtls.o.d
+* obj/local/armeabi/objs/curl/curl/lib/hash.o
+* obj/local/armeabi/objs/curl/curl/lib/hash.o.d
+* obj/local/armeabi/objs/curl/curl/lib/hmac.o
+* obj/local/armeabi/objs/curl/curl/lib/hmac.o.d
+* obj/local/armeabi/objs/curl/curl/lib/hostasyn.o
+* obj/local/armeabi/objs/curl/curl/lib/hostasyn.o.d
+* obj/local/armeabi/objs/curl/curl/lib/hostip.o
+* obj/local/armeabi/objs/curl/curl/lib/hostip.o.d
+* obj/local/armeabi/objs/curl/curl/lib/hostip4.o
+* obj/local/armeabi/objs/curl/curl/lib/hostip4.o.d
+* obj/local/armeabi/objs/curl/curl/lib/hostip6.o
+* obj/local/armeabi/objs/curl/curl/lib/hostip6.o.d
+* obj/local/armeabi/objs/curl/curl/lib/hostsyn.o
+* obj/local/armeabi/objs/curl/curl/lib/hostsyn.o.d
+* obj/local/armeabi/objs/curl/curl/lib/http.o
+* obj/local/armeabi/objs/curl/curl/lib/http.o.d
+* obj/local/armeabi/objs/curl/curl/lib/http_chunks.o
+* obj/local/armeabi/objs/curl/curl/lib/http_chunks.o.d
+* obj/local/armeabi/objs/curl/curl/lib/http_digest.o
+* obj/local/armeabi/objs/curl/curl/lib/http_digest.o.d
+* obj/local/armeabi/objs/curl/curl/lib/http_negotiate.o
+* obj/local/armeabi/objs/curl/curl/lib/http_negotiate.o.d
+* obj/local/armeabi/objs/curl/curl/lib/http_negotiate_sspi.o
+* obj/local/armeabi/objs/curl/curl/lib/http_negotiate_sspi.o.d
+* obj/local/armeabi/objs/curl/curl/lib/http_ntlm.o
+* obj/local/armeabi/objs/curl/curl/lib/http_ntlm.o.d
+* obj/local/armeabi/objs/curl/curl/lib/http_proxy.o
+* obj/local/armeabi/objs/curl/curl/lib/http_proxy.o.d
+* obj/local/armeabi/objs/curl/curl/lib/idn_win32.o
+* obj/local/armeabi/objs/curl/curl/lib/idn_win32.o.d
+* obj/local/armeabi/objs/curl/curl/lib/if2ip.o
+* obj/local/armeabi/objs/curl/curl/lib/if2ip.o.d
+* obj/local/armeabi/objs/curl/curl/lib/imap.o
+* obj/local/armeabi/objs/curl/curl/lib/imap.o.d
+* obj/local/armeabi/objs/curl/curl/lib/inet_ntop.o
+* obj/local/armeabi/objs/curl/curl/lib/inet_ntop.o.d
+* obj/local/armeabi/objs/curl/curl/lib/inet_pton.o
+* obj/local/armeabi/objs/curl/curl/lib/inet_pton.o.d
+* obj/local/armeabi/objs/curl/curl/lib/krb4.o
+* obj/local/armeabi/objs/curl/curl/lib/krb4.o.d
+* obj/local/armeabi/objs/curl/curl/lib/krb5.o
+* obj/local/armeabi/objs/curl/curl/lib/krb5.o.d
+* obj/local/armeabi/objs/curl/curl/lib/ldap.o
+* obj/local/armeabi/objs/curl/curl/lib/ldap.o.d
+* obj/local/armeabi/objs/curl/curl/lib/llist.o
+* obj/local/armeabi/objs/curl/curl/lib/llist.o.d
+* obj/local/armeabi/objs/curl/curl/lib/md4.o
+* obj/local/armeabi/objs/curl/curl/lib/md4.o.d
+* obj/local/armeabi/objs/curl/curl/lib/md5.o
+* obj/local/armeabi/objs/curl/curl/lib/md5.o.d
+* obj/local/armeabi/objs/curl/curl/lib/memdebug.o
+* obj/local/armeabi/objs/curl/curl/lib/memdebug.o.d
+* obj/local/armeabi/objs/curl/curl/lib/mprintf.o
+* obj/local/armeabi/objs/curl/curl/lib/mprintf.o.d
+* obj/local/armeabi/objs/curl/curl/lib/multi.o
+* obj/local/armeabi/objs/curl/curl/lib/multi.o.d
+* obj/local/armeabi/objs/curl/curl/lib/netrc.o
+* obj/local/armeabi/objs/curl/curl/lib/netrc.o.d
+* obj/local/armeabi/objs/curl/curl/lib/non-ascii.o
+* obj/local/armeabi/objs/curl/curl/lib/non-ascii.o.d
+* obj/local/armeabi/objs/curl/curl/lib/nonblock.o
+* obj/local/armeabi/objs/curl/curl/lib/nonblock.o.d
+* obj/local/armeabi/objs/curl/curl/lib/nss.o
+* obj/local/armeabi/objs/curl/curl/lib/nss.o.d
+* obj/local/armeabi/objs/curl/curl/lib/openldap.o
+* obj/local/armeabi/objs/curl/curl/lib/openldap.o.d
+* obj/local/armeabi/objs/curl/curl/lib/parsedate.o
+* obj/local/armeabi/objs/curl/curl/lib/parsedate.o.d
+* obj/local/armeabi/objs/curl/curl/lib/pingpong.o
+* obj/local/armeabi/objs/curl/curl/lib/pingpong.o.d
+* obj/local/armeabi/objs/curl/curl/lib/polarssl.o
+* obj/local/armeabi/objs/curl/curl/lib/polarssl.o.d
+* obj/local/armeabi/objs/curl/curl/lib/pop3.o
+* obj/local/armeabi/objs/curl/curl/lib/pop3.o.d
+* obj/local/armeabi/objs/curl/curl/lib/progress.o
+* obj/local/armeabi/objs/curl/curl/lib/progress.o.d
+* obj/local/armeabi/objs/curl/curl/lib/qssl.o
+* obj/local/armeabi/objs/curl/curl/lib/qssl.o.d
+* obj/local/armeabi/objs/curl/curl/lib/rawstr.o
+* obj/local/armeabi/objs/curl/curl/lib/rawstr.o.d
+* obj/local/armeabi/objs/curl/curl/lib/rtsp.o
+* obj/local/armeabi/objs/curl/curl/lib/rtsp.o.d
+* obj/local/armeabi/objs/curl/curl/lib/security.o
+* obj/local/armeabi/objs/curl/curl/lib/security.o.d
+* obj/local/armeabi/objs/curl/curl/lib/select.o
+* obj/local/armeabi/objs/curl/curl/lib/select.o.d
+* obj/local/armeabi/objs/curl/curl/lib/sendf.o
+* obj/local/armeabi/objs/curl/curl/lib/sendf.o.d
+* obj/local/armeabi/objs/curl/curl/lib/share.o
+* obj/local/armeabi/objs/curl/curl/lib/share.o.d
+* obj/local/armeabi/objs/curl/curl/lib/slist.o
+* obj/local/armeabi/objs/curl/curl/lib/slist.o.d
+* obj/local/armeabi/objs/curl/curl/lib/smtp.o
+* obj/local/armeabi/objs/curl/curl/lib/smtp.o.d
+* obj/local/armeabi/objs/curl/curl/lib/socks.o
+* obj/local/armeabi/objs/curl/curl/lib/socks.o.d
+* obj/local/armeabi/objs/curl/curl/lib/socks_gssapi.o
+* obj/local/armeabi/objs/curl/curl/lib/socks_gssapi.o.d
+* obj/local/armeabi/objs/curl/curl/lib/socks_sspi.o
+* obj/local/armeabi/objs/curl/curl/lib/socks_sspi.o.d
+* obj/local/armeabi/objs/curl/curl/lib/speedcheck.o
+* obj/local/armeabi/objs/curl/curl/lib/speedcheck.o.d
+* obj/local/armeabi/objs/curl/curl/lib/splay.o
+* obj/local/armeabi/objs/curl/curl/lib/splay.o.d
+* obj/local/armeabi/objs/curl/curl/lib/ssh.o
+* obj/local/armeabi/objs/curl/curl/lib/ssh.o.d
+* obj/local/armeabi/objs/curl/curl/lib/sslgen.o
+* obj/local/armeabi/objs/curl/curl/lib/sslgen.o.d
+* obj/local/armeabi/objs/curl/curl/lib/ssluse.o
+* obj/local/armeabi/objs/curl/curl/lib/ssluse.o.d
+* obj/local/armeabi/objs/curl/curl/lib/strdup.o
+* obj/local/armeabi/objs/curl/curl/lib/strdup.o.d
+* obj/local/armeabi/objs/curl/curl/lib/strequal.o
+* obj/local/armeabi/objs/curl/curl/lib/strequal.o.d
+* obj/local/armeabi/objs/curl/curl/lib/strerror.o
+* obj/local/armeabi/objs/curl/curl/lib/strerror.o.d
+* obj/local/armeabi/objs/curl/curl/lib/strtok.o
+* obj/local/armeabi/objs/curl/curl/lib/strtok.o.d
+* obj/local/armeabi/objs/curl/curl/lib/strtoofft.o
+* obj/local/armeabi/objs/curl/curl/lib/strtoofft.o.d
+* obj/local/armeabi/objs/curl/curl/lib/telnet.o
+* obj/local/armeabi/objs/curl/curl/lib/telnet.o.d
+* obj/local/armeabi/objs/curl/curl/lib/tftp.o
+* obj/local/armeabi/objs/curl/curl/lib/tftp.o.d
+* obj/local/armeabi/objs/curl/curl/lib/timeval.o
+* obj/local/armeabi/objs/curl/curl/lib/timeval.o.d
+* obj/local/armeabi/objs/curl/curl/lib/transfer.o
+* obj/local/armeabi/objs/curl/curl/lib/transfer.o.d
+* obj/local/armeabi/objs/curl/curl/lib/url.o
+* obj/local/armeabi/objs/curl/curl/lib/url.o.d
+* obj/local/armeabi/objs/curl/curl/lib/version.o
+* obj/local/armeabi/objs/curl/curl/lib/version.o.d
+* obj/local/armeabi/objs/curl/curl/lib/warnless.o
+* obj/local/armeabi/objs/curl/curl/lib/warnless.o.d
+* obj/local/armeabi/objs/curl/curl/lib/wildcard.o
+* obj/local/armeabi/objs/curl/curl/lib/wildcard.o.d
+* proguard.cfg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* libs/htmlcleaner.jar => app/libs/htmlcleaner.jar
+* libs/jackson-core-2.0.0.jar => app/libs/jackson-core-2.0.0.jar
+* libs/libGoogleAnalytics.jar => app/libs/libGoogleAnalytics.jar
+* lint.xml => app/lint.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
